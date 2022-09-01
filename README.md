@@ -50,3 +50,9 @@ I've used the [Streamlit library](https://docs.streamlit.io/library/get-started)
   9) You should see a web page like so, which asks for the features to be input. Once you've inputted the features, pressing on Predict will generate the prediction.
   
 <img width="1440" alt="Screenshot 2022-09-01 at 18 46 02" src="https://user-images.githubusercontent.com/62532888/187923268-ab40ff13-056c-49d1-90a5-ba1b7b547161.png">
+
+---
+### **Bonus**
+Backpropagation algorithms achieve the "learning" or the "training" of the neural networks by propagating the error in a backward fashion. While a neural network is undergoing supervised training, the error; the difference between the network/model's prediction and the actual value, is calculated. Then, this "loss" is sent back through the network, and a gradient of this error or loss is computed with respect to each parameter in every layer. The network undergoes "fine-tuning" when these gradients are used to calculate the updates to the parameters; the weights and biases of each neuron/unit. These updates change the value of the parameters based on the gradients calculated, and, multiplied by a (small) factor known an learning rate. 
+
+It is this iterative process repeated many times that helps the network to learn the associations present in the data, and for it to eventually start outputting better predictions.
