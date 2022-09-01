@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn==1.0.2
+tensorflow
+matlplotlib==3.5.1
+seaborn
+streamlit
+plotly
+pprint
+pickle
