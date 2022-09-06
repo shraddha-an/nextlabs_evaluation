@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 absl-py @ file:///home/conda/feedstock_root/build_artifacts/absl-py_1658854572623/work
 aiohttp @ file:///Users/runner/miniforge3/conda-bld/aiohttp_1649013213177/work
 aiosignal @ file:///home/conda/feedstock_root/build_artifacts/aiosignal_1636093929600/work
@@ -125,3 +126,15 @@ widgetsnbextension @ file:///home/conda/feedstock_root/build_artifacts/widgetsnb
 wrapt @ file:///Users/runner/miniforge3/conda-bld/wrapt_1651495311847/work
 yarl @ file:///Users/runner/miniforge3/conda-bld/yarl_1648966561602/work
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1659400682470/work
+=======
+pandas
+numpy
+scikit-learn==1.0.2
+tensorflow
+matlplotlib==3.5.1
+seaborn
+streamlit
+plotly
+pprint
+pickle
+>>>>>>> 3b0dc5bd0dda32929d6a54a12a0edcfb300bb9eb
